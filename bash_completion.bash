@@ -14,6 +14,7 @@ _gm2calc()
     opts="
 --gm2calc-input-file=
 --slha-input-file=
+--thdm-input-file=
 --help
 --version
 "
